@@ -1,0 +1,48 @@
+### Technologies
+- C
+- C++
+- C#
+- Java
+- Python
+- Mysql
+- HTML5 & CSS3
+- JavaScript & JQuery
+- Shell Scripting
+- Spring
+- Nodejs
+- Reactjs
+- Angularjs
+- Prolog
+- .Net
+- PHP
+- XML
+- NLP
+
+### Past Work
+- C Tutorials
+- TODO List
+- Eat Cheap
+- Renting Website
+- Social networking website
+- Bitcoin Currency Transactor
+- Breast Cancer Predictor
+- Fraud Detection System
+- Room Booking System
+- Package Delivery
+- Home Automation System
+- Vision
+- Parking Management System using QR Codes
+- Take a break
+- Roll A Ball Unity Game
+- Virtual ClassRoom
+- SuperMarket
+- SpaceShooter
+- NoteScanner
+- Invoice Generator
+- Navigation System
+- Fraud Detection System
+- Medical Android Application
+- Room Booking System
+- Tax Calculator
+- Syntax Analyzer
+- AES Encrypter
