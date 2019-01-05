@@ -28,9 +28,15 @@
 - Breast Cancer Predictor
 - Fraud Detection System
 - Room Booking System
-- Package Delivery
+- Crime Data Analysis System
+- Quiz Android Application
+- Package Delivery Android Application
+- Automated Parking System Android Application
+- Tour Guide Android Application
+- Score Keeper Android Application
 - Home Automation System
 - Vision
+- Student Record System
 - Parking Management System using QR Codes
 - Take a break
 - Roll A Ball Unity Game
@@ -40,7 +46,6 @@
 - NoteScanner
 - Invoice Generator
 - Navigation System
-- Fraud Detection System
 - Medical Android Application
 - Room Booking System
 - Tax Calculator
