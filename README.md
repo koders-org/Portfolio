@@ -4,7 +4,7 @@
 - C#
 - Java
 - Python
-- Mysql
+- Mysql, SQLite & MariaDB
 - HTML5 & CSS3
 - JavaScript & JQuery
 - Shell Scripting
