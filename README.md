@@ -51,3 +51,5 @@
 - Tax Calculator
 - Syntax Analyzer
 - AES Encrypter
+- Secure Socket Programming
+- Call Data Analyzer
